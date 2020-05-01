@@ -1,0 +1,413 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="" tvg-logo="" tvg-chno="1" group-title="TNT",TF1
+http://192.168.1.3:5004/auto/v1
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="" tvg-logo="" tvg-chno="2" group-title="TNT",France 2
+http://192.168.1.3:5004/auto/v2
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="" tvg-logo="" tvg-chno="3" group-title="TNT",France 3
+http://192.168.1.3:5004/auto/v3
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="" tvg-logo="" tvg-chno="4" group-title="TNT",Canal+
+http://192.168.1.3:5004/auto/v4
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="" tvg-logo="" tvg-chno="5" group-title="TNT",France 5
+http://192.168.1.3:5004/auto/v5
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="" tvg-logo="" tvg-chno="6" group-title="TNT",M6
+http://192.168.1.3:5004/auto/v6
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="" tvg-logo="" tvg-chno="7" group-title="TNT",Arte
+http://192.168.1.3:5004/auto/v7
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="" tvg-logo="" tvg-chno="8" group-title="TNT",C8
+http://192.168.1.3:5004/auto/v8
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="" tvg-logo="" tvg-chno="9" group-title="TNT",W9
+http://192.168.1.3:5004/auto/v9
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="" tvg-logo="" tvg-chno="10" group-title="TNT",TMC
+http://192.168.1.3:5004/auto/v10
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" tvg-logo="" tvg-chno="11" group-title="TNT",TFX
+http://192.168.1.3:5004/auto/v11
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="" tvg-logo="" tvg-chno="12" group-title="TNT",NRJ 12
+http://192.168.1.3:5004/auto/v12
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="" tvg-logo="" tvg-chno="13" group-title="TNT",La Chaîne Parlementaire
+http://192.168.1.3:5004/auto/v13
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="" tvg-logo="" tvg-chno="14" group-title="TNT",France 4
+http://192.168.1.3:5004/auto/v14
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="" tvg-logo="" tvg-chno="15" group-title="TNT",BFM TV
+http://192.168.1.3:5004/auto/v15
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="" tvg-logo="" tvg-chno="16" group-title="TNT",CNEWS
+http://192.168.1.3:5004/auto/v16
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="" tvg-logo="" tvg-chno="17" group-title="TNT",CSTAR
+http://192.168.1.3:5004/auto/v17
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="" tvg-logo="" tvg-chno="18" group-title="TNT",Gulli
+http://192.168.1.3:5004/auto/v18
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="" tvg-logo="" tvg-chno="19" group-title="TNT",France Ô
+http://192.168.1.3:5004/auto/v19
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="" tvg-logo="" tvg-chno="20" group-title="TNT",TF1 Series & Films
+http://192.168.1.3:5004/auto/v20
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="" tvg-logo="" tvg-chno="21" group-title="TNT",L'Equipe
+http://192.168.1.3:5004/auto/v21
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="" tvg-logo="" tvg-chno="22" group-title="TNT",6ter
+http://192.168.1.3:5004/auto/v22
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="" tvg-logo="" tvg-chno="23" group-title="TNT",RMC Story
+http://192.168.1.3:5004/auto/v23
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="" tvg-logo="" tvg-chno="24" group-title="TNT",RMC Découverte
+http://192.168.1.3:5004/auto/v24
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="" tvg-logo="" tvg-chno="25" group-title="TNT",Chérie 25
+http://192.168.1.3:5004/auto/v25
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="" tvg-logo="" tvg-chno="26" group-title="TNT",LCI
+http://192.168.1.3:5004/auto/v26
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="" tvg-logo="" tvg-chno="27" group-title="TNT",Franceinfo
+http://192.168.1.3:5004/auto/v27
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="" tvg-logo="" tvg-chno="30" group-title="TNT",BFM Paris
+http://192.168.1.3:5004/auto/v30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="31" group-title="TNT",Canal 31
+http://192.168.1.3:5004/auto/v31
+#EXTINF:-1 tvg-id="IDF1" tvg-name="" tvg-logo="" tvg-chno="32" group-title="TNT",IDF1
+http://192.168.1.3:5004/auto/v32
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="" tvg-logo="" tvg-chno="33" group-title="TNT",France 24
+http://192.168.1.3:5004/auto/v33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="34" group-title="TNT",viàGrandParis
+http://192.168.1.3:5004/auto/v34
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+" tvg-logo="http://f.iptv-pure.com/canalplus.png" group-title="IPTV", CANAL+
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="CANAL+ CINEMA" tvg-logo="http://f.iptv-pure.com/canalpluscinema.png" group-title="IPTV", CANAL+ CINEMA
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6743
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="CANAL+ DECALE" tvg-logo="http://f.iptv-pure.com/canalplusdecale.png" group-title="IPTV", CANAL+ DECALE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6740
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="CANAL+ FAMILY" tvg-logo="http://f.iptv-pure.com/canalplusfamily.png" group-title="IPTV", CANAL+ FAMILY
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6742
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="CANAL+ SERIES" tvg-logo="http://f.iptv-pure.com/canalplusseries.png" group-title="IPTV", CANAL+ SERIES
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6741
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT" tvg-logo="http://f.iptv-pure.com/canalplussport.png" group-title="IPTV", CANAL+ SPORT
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6739
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="CINE+ PREMIER" tvg-logo="http://f.iptv-pure.com/cinepluspremier.png" group-title="IPTV", CINE+ PREMIER
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6738
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON" tvg-logo="http://f.iptv-pure.com/cineplusfrisson.png" group-title="IPTV", CINE+ FRISSON
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6735
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION" tvg-logo="http://f.iptv-pure.com/cineplusemotion.png" group-title="IPTV", CINE+ EMOTION
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6736
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMIZ" tvg-logo="http://f.iptv-pure.com/cineplusfamiz.png" group-title="IPTV", CINE+ FAMIZ
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6737
+#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="CINE+ CLUB" tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="IPTV", CINE+ CLUB
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/7314
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="CINE+ CLASSIC" tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="IPTV", CINE+ CLASSIC
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9521
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX" tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="IPTV", OCS MAX
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6612
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS CITY" tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="IPTV", OCS CITY
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6613
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="OCS CHOC" tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="IPTV", OCS CHOC
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6620
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="OCS GEANT" tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="IPTV", OCS GEANT
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6621
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="ALTICE STUDIO" tvg-logo="http://f.iptv-pure.com/alticestudios.png" group-title="IPTV", ALTICE STUDIO
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9545
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="WARNER TV" tvg-logo="http://f.iptv-pure.com/astrahotbird/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="IPTV", WARNER TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/13250
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="NOVELAS TV" tvg-logo="http://f.iptv-pure.com/astrahotbird/1_0_19_19CA_444_1_C00000_0_0_0.png" group-title="IPTV", NOVELAS TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/13520
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="POLAR+" tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="IPTV", POLAR+
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11672
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="CRIME DISTRICT" tvg-logo="http://f.iptv-pure.com/crimedistrict.png" group-title="IPTV", CRIME DISTRICT
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8567
+#EXTINF:-1 tvg-id="SundanceTV.fr" tvg-name="SUNDANCE CHANNEL" tvg-logo="http://f.iptv-pure.com/sundancechannel.png" group-title="IPTV", SUNDANCE CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9540
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://f.iptv-pure.com/paramount.png" group-title="IPTV", PARAMOUNT CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11810
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-shift=1 tvg-name="PARAMOUNT DECALE" tvg-logo="http://f.iptv-pure.com/paramount.png" group-title="IPTV", PARAMOUNT DECALE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/1617
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ACTION" tvg-logo="http://f.iptv-pure.com/action.png" group-title="IPTV", ACTION
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9535
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="TCM CINEMA" tvg-logo="http://f.iptv-pure.com/tcmcinema.png" group-title="IPTV", TCM CINEMA
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9473
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER CHANNEL" tvg-logo="http://f.iptv-pure.com/xxx.png" group-title="IPTV", HARRY POTTER CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/35507
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS CHANNEL" tvg-logo="http://f.iptv-pure.com/starwars.png" group-title="IPTV", STAR WARS CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/35064
+#EXTINF:-1 tvg-id="" tvg-name="SEIGNEUR DES ANNEAUX / HOBBIT CHANNEL" tvg-logo="http://f.iptv-pure.com/cccc.png" group-title="IPTV", SEIGNEUR DES ANNEAUX / HOBBIT CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/36043
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN CHANNEL" tvg-logo="http://f.iptv-pure.com/GGGGG.png" group-title="IPTV", X-MEN CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41838
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL" tvg-logo="http://picon.pure-iptv.com/WW.png" group-title="IPTV", MARVEL CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/46036
+#EXTINF:-1 tvg-id="sfrplay1.fr" tvg-name="SFR PLAY 1 UHD HDR" tvg-logo="http://f.iptv-pure.com/sfrplay.png" group-title="IPTV", SFR PLAY 1 UHD HDR
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/50821
+#EXTINF:-1 tvg-id="sfrplay2.fr" tvg-name="SFR PLAY 2 UHD HDR" tvg-logo="http://f.iptv-pure.com/sfrplay.png" group-title="IPTV", SFR PLAY 2 UHD HDR
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/51047
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 1 UHD" tvg-logo="http://f.iptv-pure.com/boxoffice.png" group-title="IPTV", BOX OFFICE 1 UHD
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/39782
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 2 UHD" tvg-logo="http://f.iptv-pure.com/boxoffice.png" group-title="IPTV", BOX OFFICE 2 UHD
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/39783
+#EXTINF:-1 tvg-id="CLIQUE TV" tvg-name="CLIQUE TV" tvg-logo="http://f.iptv-pure.com/cliquetv.png" group-title="IPTV", CLIQUE TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/34947
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="COMEDIE+ " tvg-logo="http://f.iptv-pure.com/comedieplus.png" group-title="IPTV", COMEDIE+ 
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9524
+#EXTINF:-1 tvg-id="ELLEGirl.fr" tvg-name="ELLE GIRL" tvg-logo="http://f.iptv-pure.com/ellegirl.png" group-title="IPTV", ELLE GIRL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/1211
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY" tvg-logo="http://f.iptv-pure.com/syfy.png" group-title="IPTV", SYFY
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8676
+#EXTINF:-1 tvg-id="EEntertainement.fr" tvg-name="E!" tvg-logo="http://f.iptv-pure.com/eentertainment.png" group-title="IPTV", E!
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9477
+#EXTINF:-1 tvg-id="13eRue.fr" tvg-name="13EME RUE" tvg-logo="http://f.iptv-pure.com/13emerue.png" group-title="IPTV", 13EME RUE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9476
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="TEVA" tvg-logo="http://f.iptv-pure.com/teva.png" group-title="IPTV", TEVA
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/311
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="http://f.iptv-pure.com/rtl9.png" group-title="IPTV", RTL9
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/5974
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="http://f.iptv-pure.com/ab1.png" group-title="IPTV", AB1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/26115
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="SERIE CLUB" tvg-logo="http://f.iptv-pure.com/serieclub.png" group-title="IPTV", SERIE CLUB
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9525
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE" tvg-logo="http://f.iptv-pure.com/parispremiere.png" group-title="IPTV", PARIS PREMIERE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9526
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="TV BREIZH" tvg-logo="http://f.iptv-pure.com/tvbreizh.png" group-title="IPTV", TV BREIZH
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/349
+#EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="MY CUISINE" tvg-logo="http://f.iptv-pure.com/mycuisine.png" group-title="IPTV", MY CUISINE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9457
+#EXTINF:-1 tvg-id="Viceland" tvg-name="VICELAND" tvg-logo="http://f.iptv-pure.com/viceland.png" group-title="IPTV", VICELAND
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9539
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET" tvg-logo="http://f.iptv-pure.com/bet.png" group-title="IPTV", BET
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8675
+#EXTINF:-1 tvg-id="NonStopPeople.fr" tvg-name="NON STOP PEOPLE" tvg-logo="http://f.iptv-pure.com/nonstoppeople.png" group-title="IPTV", NON STOP PEOPLE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9479
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="THE MUSEUM CHANNEL" tvg-logo="http://f.iptv-pure.com/themuseumchannel.png" group-title="IPTV", THE MUSEUM CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/10117
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="RMC SPORT NEWS" tvg-logo="http://f.iptv-pure.com/bfmsport.png" group-title="IPTV", RMC SPORT NEWS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/749
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC SPORT 1" tvg-logo="http://f.iptv-pure.com/rmcsport1.png" group-title="IPTV", RMC SPORT 1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/745
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2" tvg-logo="http://f.iptv-pure.com/rmcsport2.png" group-title="IPTV", RMC SPORT 2
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/746
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC SPORT 3" tvg-logo="http://f.iptv-pure.com/rmcsport3.png" group-title="IPTV", RMC SPORT 3
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8687
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="RMC SPORT 4" tvg-logo="http://f.iptv-pure.com/rmcsport4.png" group-title="IPTV", RMC SPORT 4
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8667
+#EXTINF:-1 tvg-id="RMCSportUHD.fr" tvg-name="RMC SPORT 4K" tvg-logo="http://f.iptv-pure.com/rmcsport4k.png" group-title="IPTV", RMC SPORT 4K
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/27428
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC SPORT ACCESS 1" tvg-logo="http://f.iptv-pure.com/rmcaccesssport1.png" group-title="IPTV", RMC SPORT ACCESS 1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/32885
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC SPORT ACCESS 2" tvg-logo="http://f.iptv-pure.com/rmcaccesssport2.png" group-title="IPTV", RMC SPORT ACCESS 2
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/32884
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="RMC SPORT ACCESS 3" tvg-logo="http://f.iptv-pure.com/rmcaccesssport3.png" group-title="IPTV", RMC SPORT ACCESS 3
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/32883
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 5" tvg-name="RMC SPORT LIVE 5" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 5
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/27841
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 6" tvg-name="RMC SPORT LIVE 6" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 6
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/27840
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 7" tvg-name="RMC SPORT LIVE 7" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 7
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/27839
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 8" tvg-name="RMC SPORT LIVE 8" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 8
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/27838
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 9" tvg-name="RMC SPORT LIVE 9" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 9
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/27837
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 10" tvg-name="RMC SPORT LIVE 10" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 10
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/29608
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 11" tvg-name="RMC SPORT LIVE 11" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 11
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/29607
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 12" tvg-name="RMC SPORT LIVE 12" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 12
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/29606
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 13" tvg-name="RMC SPORT LIVE 13" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 13
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/29605
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 14" tvg-name="RMC SPORT LIVE 14" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 14
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/29604
+#EXTINF:-1 tvg-id="RMC SPORT LIVE 15" tvg-name="RMC SPORT LIVE 15" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 15
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/29603
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 16" tvg-logo="" group-title="IPTV", RMC SPORT LIVE 16
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/29602
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="BEIN SPORTS 1" tvg-logo="http://f.iptv-pure.com/beinsports1.png" group-title="IPTV", BEIN SPORTS 1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/382
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="BEIN SPORTS 2" tvg-logo="http://f.iptv-pure.com/beinsports2.png" group-title="IPTV", BEIN SPORTS 2
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/1191
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="BEIN SPORTS 3" tvg-logo="http://f.iptv-pure.com/beinsports3.png" group-title="IPTV", BEIN SPORTS 3
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/1248
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="BEIN MAX 4" tvg-logo="http://f.iptv-pure.com/beinsportsmax4.png" group-title="IPTV", BEIN MAX 4
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/12121
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="BEIN MAX 5" tvg-logo="http://f.iptv-pure.com/beinsportsmax5.png" group-title="IPTV", BEIN MAX 5
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/12120
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="BEIN MAX 6" tvg-logo="http://f.iptv-pure.com/beinsportsmax6.png" group-title="IPTV", BEIN MAX 6
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/12119
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="BEIN MAX 7" tvg-logo="http://f.iptv-pure.com/beinsportsmax7.png" group-title="IPTV", BEIN MAX 7
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/12118
+#EXTINF:-1 tvg-id="beINSPORTSMAX8.fr" tvg-name="BEIN MAX 8" tvg-logo="http://f.iptv-pure.com/beinsportsmax8.png" group-title="IPTV", BEIN MAX 8
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/12117
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="BEIN MAX 9" tvg-logo="http://f.iptv-pure.com/beinsportsmax9.png" group-title="IPTV", BEIN MAX 9
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/12116
+#EXTINF:-1 tvg-id="beINSPORTSMAX10.fr" tvg-name="BEIN MAX 10" tvg-logo="http://f.iptv-pure.com/beinsportsmax10.png" group-title="IPTV", BEIN MAX 10
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/12115
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE TV SPORT 4K UHD" tvg-logo="http://f.iptv-pure.com/francetv4k.png" group-title="IPTV", FRANCE TV SPORT 4K UHD
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/52308
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="MULTISPORT 1" tvg-logo="http://f.iptv-pure.com/multisports1.png" group-title="IPTV", MULTISPORT 1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41499
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="MULTISPORT 2" tvg-logo="http://f.iptv-pure.com/multisports2.png" group-title="IPTV", MULTISPORT 2
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41498
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="MULTISPORT 3" tvg-logo="http://f.iptv-pure.com/multisports3.png" group-title="IPTV", MULTISPORT 3
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41497
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="MULTISPORT 4" tvg-logo="http://f.iptv-pure.com/multisports4.png" group-title="IPTV", MULTISPORT 4
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41496
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="MULTISPORT 5" tvg-logo="http://f.iptv-pure.com/multisports5.png" group-title="IPTV", MULTISPORT 5
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41495
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="MULTISPORT 6" tvg-logo="http://f.iptv-pure.com/multisports6.png" group-title="IPTV", MULTISPORT 6
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41494
+#EXTINF:-1 tvg-id="Onzeo.fr" tvg-name="ONZEO" tvg-logo="http://f.iptv-pure.com/onzeo.png" group-title="IPTV", ONZEO
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/10118
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OL TV" tvg-logo="http://f.iptv-pure.com/oltv.png" group-title="IPTV", OL TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/10122
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FOOT+ 24/24" tvg-logo="http://f.iptv-pure.com/footplus24.png" group-title="IPTV", FOOT+ 24/24
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/27444
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT+" tvg-logo="http://f.iptv-pure.com/infosportplus.png" group-title="IPTV", INFOSPORT+
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8664
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="EQUIDIA LIVE" tvg-logo="http://f.iptv-pure.com/equidialive.png" group-title="IPTV", EQUIDIA LIVE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9542
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1" tvg-logo="http://f.iptv-pure.com/eurosport1.png" group-title="IPTV", EUROSPORT 1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/369
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2" tvg-logo="http://f.iptv-pure.com/eurosport2.png" group-title="IPTV", EUROSPORT 2
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/368
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="AUTOMOTO" tvg-logo="http://f.iptv-pure.com/automoto.png" group-title="IPTV", AUTOMOTO
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/367
+#EXTINF:-1 tvg-id="MotorsportTV.fr" tvg-name="MOTORSPORT.TV" tvg-logo="http://f.iptv-pure.com/motorsport.png" group-title="IPTV", MOTORSPORT.TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41211
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="GOLF+" tvg-logo="http://f.iptv-pure.com/golfplus.png" group-title="IPTV", GOLF+
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/379
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="GOLF CHANNEL" tvg-logo="http://f.iptv-pure.com/golfchannel.png" group-title="IPTV", GOLF CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11803
+#EXTINF:-1 tvg-id="Ginx.fr" tvg-name="GINX ESPORT" tvg-logo="http://f.iptv-pure.com/ginxesport.png" group-title="IPTV", GINX ESPORT
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/42310
+#EXTINF:-1 tvg-id="ES1.fr" tvg-name="ES1" tvg-logo="http://f.iptv-pure.com/esp1.png" group-title="IPTV", ES1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/19631
+#EXTINF:-1 tvg-id="Extreme.fr" tvg-name="EXTREME SPORTS" tvg-logo="http://f.iptv-pure.com/extremesports.png" group-title="IPTV", EXTREME SPORTS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/45519
+#EXTINF:-1 tvg-id="UltraNature" tvg-name="ULTRA NATURE 4K" tvg-logo="http://f.iptv-pure.com/ultranature4k.png" group-title="IPTV", ULTRA NATURE 4K
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/35044
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="PLANETE+" tvg-logo="http://f.iptv-pure.com/planeteplus.png" group-title="IPTV", PLANETE+
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/301
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+  A&E" tvg-logo="http://f.iptv-pure.com/planeteplusaande.png" group-title="IPTV", PLANETE+  A&E
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8674
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="PLANETE+ CI" tvg-logo="http://f.iptv-pure.com/planeteplusci.png" group-title="IPTV", PLANETE+ CI
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/7311
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="NAT GEO" tvg-logo="http://f.iptv-pure.com/nationalgeographic.png" group-title="IPTV", NAT GEO
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8673
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NAT GEO WILD" tvg-logo="http://f.iptv-pure.com/nationalgeowild.png" group-title="IPTV", NAT GEO WILD
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8672
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="DISCOVERY" tvg-logo="http://f.iptv-pure.com/discovery.png" group-title="IPTV", DISCOVERY
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/750
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://f.iptv-pure.com/discoveryscience.png" group-title="IPTV", DISCOVERY SCIENCE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/751
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="http://f.iptv-pure.com/discoveryinvestigation.png" group-title="IPTV", DISCOVERY INVESTIGATION
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8665
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="DISCOVERY FAMILY" tvg-logo="http://f.iptv-pure.com/discoveryfamily.png" group-title="IPTV", DISCOVERY FAMILY
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/10101
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="TREK" tvg-logo="http://f.iptv-pure.com/trek.png" group-title="IPTV", TREK
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/5983
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="HISTOIRE" tvg-logo="http://f.iptv-pure.com/histoire.png" group-title="IPTV", HISTOIRE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11804
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="TOUTE L HISTOIRE" tvg-logo="http://f.iptv-pure.com/toutelhistoire.png" group-title="IPTV", TOUTE L HISTOIRE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/28400
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="SEASON" tvg-logo="http://f.iptv-pure.com/seasons.png" group-title="IPTV", SEASON
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11811
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCES & VIE" tvg-logo="http://f.iptv-pure.com/scienceetvie.png" group-title="IPTV", SCIENCES & VIE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/5975
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="USHUAIA TV" tvg-logo="http://f.iptv-pure.com/ushuaia.png" group-title="IPTV", USHUAIA TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/25696
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="VOYAGE TV" tvg-logo="http://f.iptv-pure.com/voyage.png" group-title="IPTV", VOYAGE TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8671
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="ANIMAUX" tvg-logo="http://f.iptv-pure.com/animaux.png" group-title="IPTV", ANIMAUX
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11782
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-name="CHASSE ET PECHE" tvg-logo="http://f.iptv-pure.com/chasseetpeche.png" group-title="IPTV", CHASSE ET PECHE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/20517
+#EXTINF:-1 tvg-id="NauticalChannel.fr" tvg-name="NAUTICAL" tvg-logo="http://f.iptv-pure.com/nautical.png" group-title="IPTV", NAUTICAL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41212
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="TOONAMI" tvg-logo="http://f.iptv-pure.com/toonami.png" group-title="IPTV", TOONAMI
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6622
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="DISNEY CHANNEL" tvg-logo="http://f.iptv-pure.com/disneychannel.png" group-title="IPTV", DISNEY CHANNEL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9534
+#EXTINF:-1 tvg-id="DisneyChannelPlus1.fr" tvg-name="DISNEY CHANNEL +1" tvg-logo="http://f.iptv-pure.com/disneychannelplus1.png" group-title="IPTV", DISNEY CHANNEL +1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/15824
+#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="DISNEY CINEMA" tvg-logo="http://f.iptv-pure.com/disneycinema.png" group-title="IPTV", DISNEY CINEMA
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/274
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="DISNEY JUNIOR" tvg-logo="http://f.iptv-pure.com/disneyjunior.png" group-title="IPTV", DISNEY JUNIOR
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/275
+#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="DISNEY XD" tvg-logo="http://f.iptv-pure.com/disneyxd.png" group-title="IPTV", DISNEY XD
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/277
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="NICKELODEON JR" tvg-logo="http://f.iptv-pure.com/nickelodeonjunior.png" group-title="IPTV", NICKELODEON JR
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/288
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="NICKELODEON" tvg-logo="http://f.iptv-pure.com/nickelodeon.png" group-title="IPTV", NICKELODEON
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11809
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-shift=1 tvg-name="NICKELODEON +1" tvg-logo="http://f.iptv-pure.com/nickelodeon1.png" group-title="IPTV", NICKELODEON +1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/15589
+#EXTINF:-1 tvg-id="Nickelodeon4Teen.fr" tvg-name="NICKELODEON TEEN" tvg-logo="http://f.iptv-pure.com/nickelodeon4teen.png" group-title="IPTV", NICKELODEON TEEN
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6300
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG" tvg-logo="http://f.iptv-pure.com/boomerang.png" group-title="IPTV", BOOMERANG
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/6623
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="BOING" tvg-logo="http://f.iptv-pure.com/boing.png" group-title="IPTV", BOING
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9529
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="BABY TV" tvg-logo="http://f.iptv-pure.com/babytv.png" group-title="IPTV", BABY TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/28361
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="PIWI+" tvg-logo="http://f.iptv-pure.com/piwiplus.png" group-title="IPTV", PIWI+
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/286
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="TELETOON+" tvg-logo="http://f.iptv-pure.com/teletoonplus.png" group-title="IPTV", TELETOON+
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/278
+#EXTINF:-1 tvg-id="TeleTOONplus1.fr" tvg-name="TELETOON+ 1" tvg-logo="http://f.iptv-pure.com/teletoonplus1.png" group-title="IPTV", TELETOON+ 1
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/18698
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="CARTOON NETWORK" tvg-logo="http://f.iptv-pure.com/cartoonnetwork.png" group-title="IPTV", CARTOON NETWORK
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9530
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="CANAL J" tvg-logo="http://f.iptv-pure.com/canalj.png" group-title="IPTV", CANAL J
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9533
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="TIJI" tvg-logo="http://f.iptv-pure.com/tiji.png" group-title="IPTV", TIJI
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9532
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="MANGAS" tvg-logo="http://f.iptv-pure.com/mangas.png" group-title="IPTV", MANGAS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9531
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="J ONE" tvg-logo="http://f.iptv-pure.com/jone.png" group-title="IPTV", J ONE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/448
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="GAME ONE" tvg-logo="http://f.iptv-pure.com/gameone.png" group-title="IPTV", GAME ONE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/9527
+#EXTINF:-1 tvg-id="GongMax.fr" tvg-name="GONG MAX" tvg-logo="http://f.iptv-pure.com/gongmax.png" group-title="IPTV", GONG MAX
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/42311
+#EXTINF:-1 tvg-id="" tvg-name="OKLM TV" tvg-logo="http://f.iptv-pure.com/oklmtv.png" group-title="IPTV", OKLM TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/25575
+#EXTINF:-1 tvg-id="CSTAR HITS FRANCE" tvg-name="CSTAR HITS" tvg-logo="http://f.iptv-pure.com/cstarhits.png" group-title="IPTV", CSTAR HITS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/20525
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="TRACE URBAN" tvg-logo="http://f.iptv-pure.com/traceurban.png" group-title="IPTV", TRACE URBAN
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8662
+#EXTINF:-1 tvg-id="TraceTropical.fr" tvg-name="TRACE TROPICAL" tvg-logo="http://f.iptv-pure.com/tracetropical.png" group-title="IPTV", TRACE TROPICAL
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11832
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="MELODY" tvg-logo="http://f.iptv-pure.com/melody.png" group-title="IPTV", MELODY
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/28399
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ HITS" tvg-logo="http://x.iptv-pure.com/nrjhits.png" group-title="IPTV", NRJ HITS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/51551
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 MUSIC" tvg-logo="http://x.iptv-pure.com/m6musichd.png" group-title="IPTV", M6 MUSIC
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/51625
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="http://f.iptv-pure.com/mcm.png" group-title="IPTV", MCM
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11805
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM TOP" tvg-logo="http://f.iptv-pure.com/mcmtop.png" group-title="IPTV", MCM TOP
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11806
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV FRANCE" tvg-logo="http://f.iptv-pure.com/mtv.png" group-title="IPTV", MTV FRANCE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/446
+#EXTINF:-1 tvg-id="MTVHits.fr" tvg-name="MTV HITS" tvg-logo="http://f.iptv-pure.com/mtvhits.png" group-title="IPTV", MTV HITS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11808
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV" tvg-logo="http://f.iptv-pure.com/rfmtv.png" group-title="IPTV", RFM TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8661
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="ONE TV" tvg-logo="http://f.iptv-pure.com/RGEG.png" group-title="IPTV", ONE TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/41203
+#EXTINF:-1 tvg-id="BBCEarth.nordic" tvg-name="BRAVA" tvg-logo="http://f.iptv-pure.com/brava.png" group-title="IPTV", BRAVA
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/1236
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="MEZZO" tvg-logo="http://f.iptv-pure.com/mezzo.png" group-title="IPTV", MEZZO
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/11807
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="MEZZO LIVE" tvg-logo="http://f.iptv-pure.com/mezzolive.png" group-title="IPTV", MEZZO LIVE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8660
+#EXTINF:-1 tvg-id="StingrayDjazz.fr" tvg-name="DJAZZ TV" tvg-logo="http://f.iptv-pure.com/djazztv.png" group-title="IPTV", DJAZZ TV
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/25869
+#EXTINF:-1 tvg-id="APlusInternationalFrance" tvg-name="A+" tvg-logo="http://f.iptv-pure.com/aplus.png" group-title="IPTV", A+
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8691
+#EXTINF:-1 tvg-id="NollywoodTV.fr" tvg-name="NOLLYWOOD" tvg-logo="http://f.iptv-pure.com/nollywoodtv.png" group-title="IPTV", NOLLYWOOD
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/8690
+#EXTINF:-1 tvg-id="TraceAFRICA.fr" tvg-name="TRACE AFRICA" tvg-logo="http://f.iptv-pure.com/traceafrica.png" group-title="IPTV", TRACE AFRICA
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/27442
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO" tvg-logo="http://f.iptv-pure.com/lachainemeteo.png" group-title="IPTV", LA CHAINE METEO
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/42296
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FRANCE INFO" tvg-logo="http://f.iptv-pure.com/franceinfo.png" group-title="IPTV", FRANCE INFO
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/5957
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="http://f.iptv-pure.com/bfmbusiness.png" group-title="IPTV", BFM BUSINESS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/42297
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS" tvg-logo="http://f.iptv-pure.com/euronews.png" group-title="IPTV", EURONEWS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/42314
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5 MONDE" tvg-logo="http://f.iptv-pure.com/tv5monde.png" group-title="IPTV", TV5 MONDE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/42308
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 NEWS" tvg-logo="http://f.iptv-pure.com/i24.png" group-title="IPTV", I24 NEWS
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/42307
+#EXTINF:-1 tvg-id="France3Corse.fr" tvg-name="FRANCE 3 CORSE" tvg-logo="http://f.iptv-pure.com/france3.png" group-title="IPTV", FRANCE 3 CORSE
+http://iptv-pure.com:8000/36258/vr9hl3QM8o/44714
